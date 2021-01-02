@@ -1,4 +1,5 @@
 # server404
-Saving my work with 404 server not found
+Просто сохранил сюда все свои старания с сервером 404 not found.
 
-Just a backup :D
+Залетай к нам :))
+https://discord.gg/SAZVPBmWHf
