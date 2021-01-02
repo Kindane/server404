@@ -1,0 +1,24 @@
+channel id -> integer
+
+text -> string || empty_string
+
+embed -> dictionary || null
+title -> null || string
+author -> dictionary
+author["name"] -> string || empty_string
+author["url"] -> string || empty_string
+author["icon_url"] -> string || empty_string
+
+url -> null || string
+description -> null || string
+color -> string
+image -> string || empty_string
+thumbnail -> string || empty_string
+
+
+P.S.
+empty_string = ""
+string = "abcdefghijklmnopqrstuvwxyz" || "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+integer = 1234567890
+dictionary = {value1: key1}
+null = Nothing

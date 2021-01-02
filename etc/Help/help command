@@ -1,0 +1,16 @@
+*Администрация:*
+    `ban`
+    `unban`
+    `kick`
+    `mute`
+    `unmute`
+    `info`
+    `clear`
+    `reaction`
+*Обычный пользователь:*
+    `me`
+    `report`
+    `feedback`
+    `bug`
+    `idea`
+
